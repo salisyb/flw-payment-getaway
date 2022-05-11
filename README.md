@@ -1,4 +1,8 @@
-This project is an example of flutterwave payment api using express and mongo
+# overview
+```
+This project is an example of flutterwave 
+payment api using express and mongo
+```
 
 
 ## Getting Started
